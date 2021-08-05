@@ -1,7 +1,7 @@
 # WykopSexChanger
 Chcesz zmienić płeć na wykop.pl, ale ułomna moderacja nie chce Ci jej zmienić pomimo poprawnej argumentacji?
 Mamy na to sposób!
-Ten oto skrypt zmieni twoją płeć
+Ten oto skrypt zmieni Twoją płeć
 
 ## Bezpieczeństwo
 

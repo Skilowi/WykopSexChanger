@@ -10,4 +10,12 @@ Ten oto skrypt zmieni Twoją płeć
 Tak! Skrypt ten jest bezpieczny! Można nawet bez problemu obejrzeć kod, ponieważ jest otwartoźródłowy.
 Jak nie rozumiesz programowania (albo Shell Scriptu) każda część kodu została podpisana, tak by każdy mógł się dowiedzieć co dokładnie ten kod robi!
 
+## Wymagania
 
+**JQ**
+
+`sudo apt-get install jq`
+
+**CURL**
+
+`sudo apt-get install curl`
